@@ -13,16 +13,16 @@ const Footer = () => {
                 <div className="x">
                     <h2 className='font-bold text-2xl py-3'>Social</h2>
                     <div className='flex gap-2.5 items-center text-xl'>
-                        <a href="https://www.linkedin.com/company/travelling-nerd/" className="icon">
+                        <a target='_blank' href="https://www.linkedin.com/company/travelling-nerd/" className="icon">
                             <BsLinkedin />
                         </a>
-                        <a href="https://www.linkedin.com/company/travelling-nerd/" className="icon">
+                        <a target='_blank' href="https://www.linkedin.com/company/travelling-nerd/" className="icon">
                             <BsFacebook />
                         </a>
-                        <a href="https://www.linkedin.com/company/travelling-nerd/" className="icon">
+                        <a target='_blank' href="https://www.linkedin.com/company/travelling-nerd/" className="icon">
                             <BsInstagram />
                         </a>
-                        <a href="https://www.linkedin.com/company/travelling-nerd/" className="icon">
+                        <a target='_blank' href="https://www.linkedin.com/company/travelling-nerd/" className="icon">
                             <BsTwitter />
                         </a>
                     </div>
